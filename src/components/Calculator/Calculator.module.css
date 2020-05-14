@@ -1,0 +1,22 @@
+.calculatorWrapper {
+    width: 350px;
+    margin: 0 auto;
+}
+.calculator {
+    display: flex;
+}
+.operation {
+    display: flex;
+    justify-content: space-between;
+}
+.btn {
+    background-color: orange;
+    border: none;
+    color: white;
+    width: 100px;
+    border: 1px solid white;
+}
+.result {
+    color: white;
+    text-align: center;
+}

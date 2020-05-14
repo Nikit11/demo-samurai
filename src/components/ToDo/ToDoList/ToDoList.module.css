@@ -1,0 +1,17 @@
+.toDoWrapper {
+    width: 600px;
+    margin: 0 auto;
+    border: rgb(128, 128, 128) solid 2px;
+}
+
+
+.input {
+    text-align: left;
+}
+.show{
+    display: block;
+}
+.hide{
+    display: hide;
+}
+

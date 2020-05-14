@@ -1,0 +1,6 @@
+.formSummaryError {
+    max-width: 200px;
+    border: 2px red solid;
+    color: red;
+    padding: 5px;
+}

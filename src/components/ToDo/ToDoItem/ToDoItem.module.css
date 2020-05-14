@@ -1,0 +1,24 @@
+
+.toDo {
+    display: flex;
+    color: white;
+}
+.toDo:hover {
+    background-color: grey;
+}
+
+.delete {
+    display: none;
+    color: red;
+    text-align: right ;
+
+}
+.toDo:hover  .delete {
+    display: inline-block;
+}
+.done {
+    text-decoration: line-through;
+}
+.checking {
+    cursor: pointer;
+}

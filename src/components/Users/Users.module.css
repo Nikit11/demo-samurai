@@ -1,0 +1,14 @@
+.userPhoto {
+    width: 100px;
+    height: 100px;
+}
+
+span {
+    cursor:  pointer;
+    margin: 3px;
+}
+.loading {
+    display: block;
+    margin: 30px auto;
+    width: 200px;
+}

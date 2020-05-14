@@ -1,0 +1,27 @@
+.descriptionBlock {
+    padding: 10px;
+    display: flex;
+}
+.img {
+    width: 200px;
+    border-radius: 50%;
+}
+.description {
+    color: rgb(230, 255, 7);
+    font-size: 20px;
+}
+.contacts {
+    width: max-content;
+    margin-left: 100px;
+    border: 5px dotted lightcoral;
+}
+.contactsDescr {
+    text-align: center;
+    color: white;
+    font-size:  30px;
+}
+ul li {
+    margin: 5px;
+    color: white;
+    font-size: 20px;
+}
