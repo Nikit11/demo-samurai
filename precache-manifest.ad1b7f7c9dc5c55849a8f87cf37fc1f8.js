@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "b47bab54e1cc931ede86",
+    "revision": "683eb0f9faa7c00f6de8",
     "url": "/demo-samurai/static/css/main.d8c7f251.chunk.css"
   },
   {
-    "revision": "b47bab54e1cc931ede86",
-    "url": "/demo-samurai/static/js/main.b47bab54.chunk.js"
+    "revision": "683eb0f9faa7c00f6de8",
+    "url": "/demo-samurai/static/js/main.683eb0f9.chunk.js"
   },
   {
     "revision": "236892be778bdd5524ad",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/demo-samurai/static/js/runtime~main.cb4a45af.js"
   },
   {
-    "revision": "141454b14145f0a9235012ef7996fea5",
+    "revision": "2163b4f0c692e073b02e9e9315896e30",
     "url": "/demo-samurai/index.html"
   }
 ];
