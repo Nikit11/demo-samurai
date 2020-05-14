@@ -1,7 +1,7 @@
 {
   "main.css": "/demo-samurai/static/css/main.d8c7f251.chunk.css",
-  "main.js": "/demo-samurai/static/js/main.0abfe9c4.chunk.js",
-  "main.js.map": "/demo-samurai/static/js/main.0abfe9c4.chunk.js.map",
+  "main.js": "/demo-samurai/static/js/main.b47bab54.chunk.js",
+  "main.js.map": "/demo-samurai/static/js/main.b47bab54.chunk.js.map",
   "static/css/1.95aaad0a.chunk.css": "/demo-samurai/static/css/1.95aaad0a.chunk.css",
   "static/js/1.236892be.chunk.js": "/demo-samurai/static/js/1.236892be.chunk.js",
   "static/js/1.236892be.chunk.js.map": "/demo-samurai/static/js/1.236892be.chunk.js.map",
@@ -11,8 +11,8 @@
   "static/css/3.d4db108f.chunk.css": "/demo-samurai/static/css/3.d4db108f.chunk.css",
   "static/js/3.e3b2e18d.chunk.js": "/demo-samurai/static/js/3.e3b2e18d.chunk.js",
   "static/js/3.e3b2e18d.chunk.js.map": "/demo-samurai/static/js/3.e3b2e18d.chunk.js.map",
-  "static/js/4.452f2e0a.chunk.js": "/demo-samurai/static/js/4.452f2e0a.chunk.js",
-  "static/js/4.452f2e0a.chunk.js.map": "/demo-samurai/static/js/4.452f2e0a.chunk.js.map",
+  "static/js/4.cbf41dd1.chunk.js": "/demo-samurai/static/js/4.cbf41dd1.chunk.js",
+  "static/js/4.cbf41dd1.chunk.js.map": "/demo-samurai/static/js/4.cbf41dd1.chunk.js.map",
   "runtime~main.js": "/demo-samurai/static/js/runtime~main.cb4a45af.js",
   "runtime~main.js.map": "/demo-samurai/static/js/runtime~main.cb4a45af.js.map",
   "static/css/main.d8c7f251.chunk.css.map": "/demo-samurai/static/css/main.d8c7f251.chunk.css.map",
@@ -20,6 +20,6 @@
   "static/css/2.5b509dca.chunk.css.map": "/demo-samurai/static/css/2.5b509dca.chunk.css.map",
   "static/css/3.d4db108f.chunk.css.map": "/demo-samurai/static/css/3.d4db108f.chunk.css.map",
   "index.html": "/demo-samurai/index.html",
-  "precache-manifest.05a9cc9df169379e697bd8631f2b7027.js": "/demo-samurai/precache-manifest.05a9cc9df169379e697bd8631f2b7027.js",
+  "precache-manifest.7a146ba3964508394898b41b50e29452.js": "/demo-samurai/precache-manifest.7a146ba3964508394898b41b50e29452.js",
   "service-worker.js": "/demo-samurai/service-worker.js"
 }
